@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 * Run the project
 ```
-python server.py
+python src/server.py
 ```
 
 * You're done, you can test the endpoints using an HTTP client such as Postman, Insomnia or cURL if you preffer. The easiest endpoints to test are the following (the other ones are easy but could be a bit confusing at first):
